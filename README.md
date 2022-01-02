@@ -1,23 +1,22 @@
 # Automatic Termux MSFvenom Exploiter
 ATMSFE helps you to generate metasploit without typing long commands. <br>
 
-###### Requirements:-
+## ⚠️ Requirements: ⚠️
 1. Metasploit-Framework <br>
 
-###### Installation:-
-$ apt update <br>
-$ apt upgrade <br>
-$ git clone https://github.com/kinghacker0/mob-droid <br>
+## 💿 Installation: 💿
+```
+apt update
+apt upgrade
+git clone https://github.com/Err0r-ICA/ATMSFE
+cd ATMSFE
+python2 ATMSFE
+```
 
-###### Usage:-
-
-$ cd ATMSFE <br>
-$ python2 ATMSFE <br>
-
-## Screenshot
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/sjB0dThm/Screenshot-20200425-150903-Termux.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
